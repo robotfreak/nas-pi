@@ -1,0 +1,12 @@
+[Unit]
+Description=NAS-Pi Service
+After=sockets.target
+
+[Service]
+Type=idle
+ExecStart=/usr/bin/python3 /usr/local/bin/nas-pi.py
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=sockets.target
