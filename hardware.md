@@ -11,9 +11,9 @@ We use the CM4 and the CM IO board here, because it has PCIe interface to connec
 
 The SATA controller is a 1 PCIe lane controler with a Marvell 88se9215 controller. This one runs out-of-the-box on Raspberry Pi.
 
-[CM4 + IO board](./Images/cm4-io-board-top.jpg)
+![CM4 + IO board](./Images/cm4-io-board-top.jpg)
 
-[SATA controller](./Images/sata-controller.jpg)
+![SATA controller](./Images/sata-controller.jpg)
 
 ## Power supply
 
@@ -22,11 +22,11 @@ The parts for the power supply are:
 * 5V 5A DCDC module
 * power cable from a dead PC power supply with SATA, floppy connector
 
-[12V powerbrick](./Images/power-brick.jpg)
+![12V powerbrick](./Images/power-brick.jpg)
 
-[5V powerbrick](./Images/power-module.jpg)
+![5V powerbrick](./Images/power-module.jpg)
 
-[Power cable](./Images/power-cables.jpg)
+![Power cable](./Images/power-cables.jpg)
 
 
 ## Front panel
