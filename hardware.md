@@ -40,16 +40,16 @@ Front panel parts used:
 * 1 green LED
 * 40 pin Raspberry Pi connector
 
-[OLED](./Images/oled.jpg)
+![OLED](./Images/oled.jpg)
 
-[Panel](./Images/nas-panel.jpg)
+![Panel](./Images/nas-panel.jpg)
 
 ## Housing, 3D printed parts
 
 The housing is a recycled shuttle PC cube housing plus some 3D printed parts 
 
-[Shuttle](./Images/shuttle.jpg)
+![Shuttle](./Images/shuttle.jpg)
 
-[Front](./Images/nas-front2.jpg)
+![Front](./Images/nas-front2.jpg)
 
-[Back](./Images/nas-back.jpg)
+![Back](./Images/nas-back.jpg)
